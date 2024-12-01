@@ -18,7 +18,7 @@ const MainApp = () => {
           <i className="fas fa-users"></i>
         </div>
         <div className="icon">
-          <a href="http://127.0.0.1:5000" target="_blank" rel="noopener noreferrer">
+          <a href="http://127.0.0.1:5000/" target="_blank" rel="noopener noreferrer">
             <i className="fas fa-comment"></i>
           </a>
         </div>
@@ -71,7 +71,7 @@ const MainApp = () => {
           </div>
           <div className="option">
             <i className="fas fa-link"></i>
-            <a href="http://127.0.0.1:5000/" target="_blank" rel="noopener noreferrer">
+            <a href="http://127.0.0.1:5000/graph" target="_blank" rel="noopener noreferrer">
               <p>Graph Generator</p>
             </a>
           </div>
