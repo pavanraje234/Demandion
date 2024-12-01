@@ -12,7 +12,7 @@ import requests
 from sklearn.preprocessing import MinMaxScaler, StandardScaler, LabelEncoder
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score
-from sklearn.ensemble import IsolationForest
+from sklearn.ensemble import IsolationForest``
 from sklearn.impute import SimpleImputer
 from sklearn.model_selection import RandomizedSearchCV
 import numpy as np
